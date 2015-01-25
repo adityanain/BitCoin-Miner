@@ -1,0 +1,582 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+40 items
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitMaster$$anonfun$receive$1.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitMaster.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitWorker$$anonfun$active$1.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitWorker$$anonfun$bitminer$BitWorker$$genStringsLenKAndCalHash$1$1.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitWorker$$anonfun$bitminer$BitWorker$$genStringsLenKAndCalHash$1$2.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitWorker$$anonfun$genStrings$1.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitWorker$$anonfun$genStrings$2.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitWorker$$anonfun$identify$1.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitWorker.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\MasterWorkerProtocol.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\NoWorkToBeDone$.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\NoWorkToBeDone.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Result$.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Result.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Shutdown$.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Shutdown.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\TerminateYourself$.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\TerminateYourself.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Work$.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Work.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkCompleted$.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkCompleted.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkerIsAvailable$.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkerIsAvailable.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkerTerminated$.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkerTerminated.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkRequested$.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkRequested.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Listener$$anonfun$3.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Listener$$anonfun$receive$1.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Listener.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$$anonfun$1.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$$anonfun$2.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$$anonfun$checkValidIp$1.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$$anonfun$startMasterWorkerSystem$1$$anonfun$apply$1.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$$anonfun$startMasterWorkerSystem$1.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$$anonfun$startWorkerSystem$1$$anonfun$apply$mcVI$sp$1.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$$anonfun$startWorkerSystem$1.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$.class
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1.class
+binary dependencies:
+14 items
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> C:\Program Files\Java\jdk1.7.0_45\jre\lib\rt.jar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> C:\Users\Aditya\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> C:\Users\Aditya\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> C:\Program Files\Java\jdk1.7.0_45\jre\lib\rt.jar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> C:\Users\Aditya\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> C:\Users\Aditya\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\lib\commons-codec-1.9.jar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Program Files\Java\jdk1.7.0_45\jre\lib\rt.jar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> C:\Users\Aditya\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Program Files\Java\jdk1.7.0_45\jre\lib\rt.jar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+5 items
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+40 items
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> bitminer.BitMaster
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> bitminer.BitMaster$$anonfun$receive$1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> bitminer.BitWorker
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> bitminer.BitWorker$$anonfun$active$1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> bitminer.BitWorker$$anonfun$bitminer$BitWorker$$genStringsLenKAndCalHash$1$1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> bitminer.BitWorker$$anonfun$bitminer$BitWorker$$genStringsLenKAndCalHash$1$2
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> bitminer.BitWorker$$anonfun$genStrings$1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> bitminer.BitWorker$$anonfun$genStrings$2
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> bitminer.BitWorker$$anonfun$identify$1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.MasterWorkerProtocol
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.NoWorkToBeDone
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.NoWorkToBeDone$
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.Result
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.Result$
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.Shutdown
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.Shutdown$
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.TerminateYourself
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.TerminateYourself$
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.Work
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.Work$
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.WorkCompleted
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.WorkCompleted$
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.WorkRequested
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.WorkRequested$
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.WorkerIsAvailable
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.WorkerIsAvailable$
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.WorkerTerminated
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer.WorkerTerminated$
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> bitminer.Listener
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> bitminer.Listener$$anonfun$3
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> bitminer.Listener$$anonfun$receive$1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> bitminer.Project1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> bitminer.Project1$
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> bitminer.Project1$$anonfun$1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> bitminer.Project1$$anonfun$2
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> bitminer.Project1$$anonfun$checkValidIp$1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> bitminer.Project1$$anonfun$startMasterWorkerSystem$1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> bitminer.Project1$$anonfun$startMasterWorkerSystem$1$$anonfun$apply$1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> bitminer.Project1$$anonfun$startWorkerSystem$1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> bitminer.Project1$$anonfun$startWorkerSystem$1$$anonfun$apply$mcVI$sp$1
+used names:
+333 items
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> !
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> !=
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> &&
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> +
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> +=
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> -
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> ->
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> <
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> <init>
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> ==
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> A1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> Actor
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> ActorLogging
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> ActorRef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> B1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> BitMaster
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> Function1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> Int
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> Long
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> Map
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> NoWorkToBeDone
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> None
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> Predef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> Queue
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> String
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> TerminateYourself
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> WorkRequested
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> actor
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> actorRef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> actorRef2Scala
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> akka
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> apply
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> asInstanceOf
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> augmentString
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> bitminer
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> collection
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> contains
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> context
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> empty
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> equals
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> format
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> get
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> getWorkString
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> hashString
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> hashesToFind
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> i
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> i_=
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> inp
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> inpString
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> isInstanceOf
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> j
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> j_=
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> length
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> mutable
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> ne
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> noOfActorsAvailable
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> noOfActorsAvailable_=
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> package
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> println
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> result
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> resultList
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> scala
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> self
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> sender
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> shutdown
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> stop
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> str
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> system
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> toChar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> unchecked
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> unwatch
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> watch
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> worker
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> workerRef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> workers
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> zerosToMatch
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> !
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> +
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> +=
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> -
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> <
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> <init>
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> ==
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> A1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> Actor
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> ActorLogging
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> ActorRef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> ActorSelection
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> Any
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> B1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> BitWorker
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> ComputeHash
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> DigestUtils
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> Function1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> Int
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> Long
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> None
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> Predef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> Receive
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> ReceiveTimeout
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> String
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> StringBuilder
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> StringContext
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> TerminateYourself
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> Unit
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> WorkRequested
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> active
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> actor
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> actorRef2Scala
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> actorSelection
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> akka
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> apache
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> apply
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> asInstanceOf
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> become
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> bitminer
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> codec
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> commons
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> concat
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> concurrent
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> context
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> correlationId
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> counter
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> digest
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> dispatcher
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> doWork
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> duration
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> etaString
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> foreach
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> genStrings
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> genStringsLenKAndCalHash
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> hashString
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> hashes
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> i
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> identify
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> inp
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> intWrapper
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> isInstanceOf
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> k
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> lenToGen
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> length
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> lengthTogenerate
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> masterLocation
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> maxLen
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> nHash
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> nZerosToFind
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> ne
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> noOfHashesToFind
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> noOfZerosFind
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> org
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> package
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> path
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> prefix
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> prefixStr
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> prefixString
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> println
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> ref
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> s
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> sb
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> scala
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> scheduleOnce
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> scheduler
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> seconds
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> self
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> sendIdentifyRequest
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> sender
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> sha256Hex
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> startsWith
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> stop
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> str
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> string
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> system
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> to
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> toChar
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> toScala
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> toString
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> unchecked
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> until
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> withFilter
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> x
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> zString
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> zeros
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> &&
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> <init>
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> ==
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> AbstractFunction0
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> AbstractFunction1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> AbstractFunction2
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> AbstractFunction4
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> ActorRef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> AnyRef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> Int
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> Long
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> MasterWorkerProtocol
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> NoWorkToBeDone
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> None
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> Predef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> Product
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> Result
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> ScalaRunTime
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> Serializable
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> Shutdown
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> Statics
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> String
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> TerminateYourself
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> Work
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> WorkCompleted
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> WorkRequested
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> WorkerIsAvailable
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> WorkerTerminated
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> _hashCode
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> _toString
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> actor
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> actorRef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> akka
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> anyHash
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> asInstanceOf
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> bitminer
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> eq
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> finalizeHash
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> inp
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> isInstanceOf
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> length
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> longHash
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> mix
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> nZerosToFind
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> noOfHashesToFind
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> prefixString
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> result
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> runtime
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> scala
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> stringProcessed
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> toString
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> typedProductIterator
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> workerRef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> ||
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> &&
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> -
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> :+
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> <=
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> <init>
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> ==
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> >=
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> A1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> Actor
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> ActorRef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> ActorSystem
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> Any
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> AnyRef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> Array
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> B1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> BitMaster
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> BitWorker
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> Boolean
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> ClassTag
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> ConfigFactory
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> Function1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> InetAddress
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> Int
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> Listener
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> Long
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> Predef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> Project1
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> Props
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> RoundRobinRouter
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> String
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> Throwable
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> Unit
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> actor
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> actorOf
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> akka
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> apply
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> args
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> arrWorkerRef
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> asInstanceOf
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> augmentString
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> bitminer
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> checkValidIp
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> com
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> config
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> context
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> forall
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> foreach
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> format
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> getString
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> hostname
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> i
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> intWrapper
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> ip
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> isEmpty
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> isInstanceOf
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> java
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> length
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> load
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> localWorkers
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> masterConfig
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> masterIP
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> masterPath
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> materializeClassTag
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> nRemoteWorkers
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> nWorkers
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> nWorkers_=
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> ne
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> net
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> noOfHashes
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> noOfZeros
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> nrOfWorkers
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> num
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> package
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> path
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> port
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> refArrayOps
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> routing
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> scala
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> self
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> shutdown
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> split
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> startMasterWorkerSystem
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> startWorkerSystem
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> stop
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> system
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> to
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> toInt
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> toLong
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> token
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> tokens
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> typesafe
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> unchecked
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> until
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> update
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> watch
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> worker
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> workersRef
+product stamps:
+40 items
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitMaster$$anonfun$receive$1.class -> lastModified(1412885711318)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitMaster.class -> lastModified(1412885711292)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitWorker$$anonfun$active$1.class -> lastModified(1412885711372)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitWorker$$anonfun$bitminer$BitWorker$$genStringsLenKAndCalHash$1$1.class -> lastModified(1412885711382)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitWorker$$anonfun$bitminer$BitWorker$$genStringsLenKAndCalHash$1$2.class -> lastModified(1412885711394)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitWorker$$anonfun$genStrings$1.class -> lastModified(1412885711407)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitWorker$$anonfun$genStrings$2.class -> lastModified(1412885711416)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitWorker$$anonfun$identify$1.class -> lastModified(1412885711432)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\BitWorker.class -> lastModified(1412885711360)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Listener$$anonfun$3.class -> lastModified(1412885711459)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Listener$$anonfun$receive$1.class -> lastModified(1412885711472)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Listener.class -> lastModified(1412885711450)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\MasterWorkerProtocol.class -> lastModified(1412885711477)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\NoWorkToBeDone$.class -> lastModified(1412885711498)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\NoWorkToBeDone.class -> lastModified(1412885711488)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$$anonfun$1.class -> lastModified(1412885711533)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$$anonfun$2.class -> lastModified(1412885711540)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$$anonfun$checkValidIp$1.class -> lastModified(1412885711550)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$$anonfun$startMasterWorkerSystem$1$$anonfun$apply$1.class -> lastModified(1412885711592)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$$anonfun$startMasterWorkerSystem$1.class -> lastModified(1412885711586)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$$anonfun$startWorkerSystem$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1412885711608)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$$anonfun$startWorkerSystem$1.class -> lastModified(1412885711602)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1$.class -> lastModified(1412885711526)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Project1.class -> lastModified(1412885711507)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Result$.class -> lastModified(1412885711638)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Result.class -> lastModified(1412885711629)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Shutdown$.class -> lastModified(1412885711645)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Shutdown.class -> lastModified(1412885711657)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\TerminateYourself$.class -> lastModified(1412885711673)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\TerminateYourself.class -> lastModified(1412885711664)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Work$.class -> lastModified(1412885711705)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\Work.class -> lastModified(1412885711695)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkCompleted$.class -> lastModified(1412885711714)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkCompleted.class -> lastModified(1412885711731)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkerIsAvailable$.class -> lastModified(1412885711771)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkerIsAvailable.class -> lastModified(1412885711763)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkerTerminated$.class -> lastModified(1412885711779)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkerTerminated.class -> lastModified(1412885711796)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkRequested$.class -> lastModified(1412885711747)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\bitminer\WorkRequested.class -> lastModified(1412885711738)
+source stamps:
+4 items
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> hash(95df18f7cfe2adf8c63f26e5aa8b7b71a9c95ebd)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> hash(76535ebe2f2a2cf1af4b4266f289508ee5e61824)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> hash(0578acbd85faeb7dae2434f5c2dbe76a37b84ede)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> hash(7920a4f643bd983ddce3800b9cad1fc7ab0d90c7)
+binary stamps:
+5 items
+C:\Program Files\Java\jdk1.7.0_45\jre\lib\rt.jar -> lastModified(1389378973774)
+C:\Users\Aditya\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar -> lastModified(1409900350000)
+C:\Users\Aditya\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar -> lastModified(1399042454000)
+C:\Users\Aditya\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar -> lastModified(1406097530000)
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\lib\commons-codec-1.9.jar -> lastModified(1411153954586)
+class names:
+5 items
+C:\Program Files\Java\jdk1.7.0_45\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Aditya\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar -> akka.actor.Actor
+C:\Users\Aditya\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar -> com.typesafe.config.ConfigFactory
+C:\Users\Aditya\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar -> scala.Serializable
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\lib\commons-codec-1.9.jar -> org.apache.commons.codec.digest.DigestUtils
+internal apis:
+4 items
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBJe3VyAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw81uVdHQABHNlbGZzcQB+AAudwwssdAAHY29udGV4dHVxAH4ACQAAACtzcQB+AAsgT1NxdAAGbm90aWZ5c3EAfgAL1lMeSnQAB1JlY2VpdmVzcQB+AAtkuGGQdAAEd2FpdHNxAH4AC5EVqG50AA0kYXNJbnN0YW5jZU9mc3EAfgAL3E1BlXQABmVxdWFsc3NxAH4AC3E+1y10AAFqc3EAfgALHMAUEXQADGFzSW5zdGFuY2VPZnNxAH4AC67tt7V0AAd3b3JrZXJzc3EAfgALhoZNlHQADHN5bmNocm9uaXplZHNxAH4AC7B/5KJ0AA1nZXRXb3JrU3RyaW5nc3EAfgALZhBzc3QADSRpc0luc3RhbmNlT2ZzcQB+AAsoxFncdAAHcmVjZWl2ZXNxAH4AC1cSBtN0AApwcmVSZXN0YXJ0c3EAfgALOCRLknQADWFyb3VuZFJlY2VpdmVzcQB+AAvVBdtwdAAJQml0TWFzdGVyc3EAfgAL4RA4AHQAC3Bvc3RSZXN0YXJ0c3EAfgALn2IZIXQACHBvc3RTdG9wc3EAfgAL3GIqznQAAWlzcQB+AAvsw9XPdAAJbm90aWZ5QWxsc3EAfgALhggBYXQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALG3YRpnQADGlzSW5zdGFuY2VPZnNxAH4AC1J7crt0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALxPebsXQADmFyb3VuZFBvc3RTdG9wc3EAfgALo0n4SXQABjxpbml0PnNxAH4AC65gHF10AAhwcmVTdGFydHNxAH4AC9O+BAx0AAl1bmhhbmRsZWRzcQB+AAtTZ1kJdAATbm9PZkFjdG9yc0F2YWlsYWJsZXNxAH4ACzsIIKh0AAI9PXNxAH4AC1wsJut0AAVjbG9uZXNxAH4AC6g1T3l0AAZzZW5kZXJzcQB+AAuLHVmbdAAIdG9TdHJpbmdzcQB+AAtqRoPjdAAGbGVuZ3Roc3EAfgALb0QM+nQAAiE9c3EAfgALKH2stnQACGdldENsYXNzc3EAfgALzvY/VnQAAm5lc3EAfgAL2hK2snQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC/Q6frV0AAJlcXNxAH4AC98nWYx0AANsb2dzcQB+AAuFnbk9dAAKcmVzdWx0TGlzdHNxAH4AC7OmGDV0AAIjI3NxAH4ACwyaTM10AAhmaW5hbGl6ZXNxAH4AC5d6lwx0AAhoYXNoQ29kZXNxAH4AC3/LgSV0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABJiaXRtaW5lci5CaXRNYXN0ZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AiQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AcUwACWluaGVyaXRlZHEAfgBxTAAHcGFyZW50c3EAfgBxeHEAfgCQc3EAfgCJAXVxAH4AbAAAAABwc3EAfgCJAXVxAH4AbAAAAABwc3EAfgCJAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Aj3QADEFjdG9yTG9nZ2luZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Aj3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AqHQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKlzcQB+AJx0AAVBY3RvcnEAfgCic3EAfgCcdAAGT2JqZWN0c3EAfgCgc3EAfgCjdXEAfgCmAAAAA3NxAH4AqHQABGphdmFzcQB+AKh0AARsYW5ncQB+AK9zcQB+AJx0AANBbnlzcQB+AKBzcQB+AKN1cQB+AKYAAAACc3EAfgCodAAFc2NhbGFxAH4Ar3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAIYml0bWluZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUj2jNTjdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSV3xj3z+Kt+MY/JuWqi3txqclevQ==
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDBCWnPAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwuJ2bWHQABHNlbGZzcQB+AAuCgS0ndAAHY29udGV4dHVxAH4ACQAAACtzcQB+AAsXYIQKdAAGbm90aWZ5c3EAfgALzlbg23QAB1JlY2VpdmVzcQB+AAv1+AJ7dAAEd2FpdHNxAH4ACwcerzh0AAZkb1dvcmtzcQB+AAtEa7wBdAANJGFzSW5zdGFuY2VPZnNxAH4ACw7S+o90AARwYXRoc3EAfgALN9mmvHQACmdlblN0cmluZ3NzcQB+AAt6RTqkdAAGZXF1YWxzc3EAfgAL/vGPnHQADGFzSW5zdGFuY2VPZnNxAH4AC8ZhfFp0AAlCaXRXb3JrZXJzcQB+AAt7K1v0dAAMc3luY2hyb25pemVkc3EAfgAL4fXEWnQADSRpc0luc3RhbmNlT2ZzcQB+AAufJgNHdAAHcmVjZWl2ZXNxAH4AC1iKK7d0AApwcmVSZXN0YXJ0c3EAfgALC7U5F3QADWFyb3VuZFJlY2VpdmVzcQB+AAv5UQlHdAALcG9zdFJlc3RhcnRzcQB+AAv2OMH9dAAIcG9zdFN0b3BzcQB+AAtsFemodAAJbm90aWZ5QWxsc3EAfgALRRCpo3QAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALfaRAzXQADGlzSW5zdGFuY2VPZnNxAH4AC57rBoB0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALJvE4hHQADmFyb3VuZFBvc3RTdG9wc3EAfgALP3YFrXQABjxpbml0PnNxAH4AC1SRNT50AAhwcmVTdGFydHNxAH4AC0yvYnN0AAl1bmhhbmRsZWRzcQB+AAs4HCDEdAACPT1zcQB+AAuBzdxGdAAFY2xvbmVzcQB+AAvW+qZ7dAAGc2VuZGVyc3EAfgALBY/GVHQACHRvU3RyaW5nc3EAfgAL4e2bOnQAAiE9c3EAfgALcRDVRXQAE3NlbmRJZGVudGlmeVJlcXVlc3RzcQB+AAtH1akNdAAIZ2V0Q2xhc3NzcQB+AAv9u9yhdAALQ29tcHV0ZUhhc2hzcQB+AAtJnGkTdAACbmVzcQB+AAusC0JgdAAIaWRlbnRpZnlzcQB+AAvu3XF+dAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALmthUaHQAAmVxc3EAfgAL6D67a3QAA2xvZ3NxAH4AC/tudbN0AAIjI3NxAH4AC5SBTUB0AAhmaW5hbGl6ZXNxAH4ACyFWVhx0AAhoYXNoQ29kZXNxAH4AC//rPZx0AA5hcm91bmRQcmVTdGFydHNxAH4AC/G0rX90AAZhY3RpdmVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBxeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASYml0bWluZXIuQml0V29ya2VydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AIkBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHFMAAlpbmhlcml0ZWRxAH4AcUwAB3BhcmVudHNxAH4AcXhxAH4AkHNxAH4AiQF1cQB+AGwAAAAAcHNxAH4AiQF1cQB+AGwAAAAAcHNxAH4AiQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AI90AAxBY3RvckxvZ2dpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AI9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AKh0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCpc3EAfgCcdAAFQWN0b3JxAH4AonNxAH4AnHQABk9iamVjdHNxAH4AoHNxAH4Ao3VxAH4ApgAAAANzcQB+AKh0AARqYXZhc3EAfgCodAAEbGFuZ3EAfgCvc3EAfgCcdAADQW55c3EAfgCgc3EAfgCjdXEAfgCmAAAAAnNxAH4AqHQABXNjYWxhcQB+AK9wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACGJpdG1pbmVyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFI9ozU43VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFJDOlxVc2Vyc1xBZGl0eWFcRGVza3RvcFxTdWJtaXNzaW9uIERPU1xQcm9qZWN0MVxCaXRNaW5lclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUdlNevi8qLPGvS0Jm8olQjuXmGCQ=
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBJv85JAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAHQbPV0AAZub3RpZnlzcQB+AAwDvevwdAAIU2h1dGRvd25zcQB+AAxUIbymdAAEd2FpdHNxAH4ADNOHqrJ0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADIGjaHp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMg6SvmXQADHByb2R1Y3RBcml0eXNxAH4ADFMAdpB0AAZlcXVhbHNzcQB+AAxyubzjdAAIYWN0b3JSZWZzcQB+AAwaS/TNdAAMYXNJbnN0YW5jZU9mc3EAfgAMW04+4nQABnJlc3VsdHNxAH4ADEVY4LJ0AA1Xb3JrQ29tcGxldGVkc3EAfgAM6NfMoXQADHN5bmNocm9uaXplZHNxAH4ADF1Ig5t0AANpbnBzcQB+AAw7nGgpdAARV29ya2VySXNBdmFpbGFibGVzcQB+AAwymKEsdAANJGlzSW5zdGFuY2VPZnNxAH4ADKRtUN50AAhjYW5FcXVhbHNxAH4ADBor4cF0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADIUFCCh0AAl3b3JrZXJSZWZzcQB+AAw/Q6FTdAANcHJvZHVjdFByZWZpeHNxAH4ADJRUUpN0AAlub3RpZnlBbGxzcQB+AAxoCMVudAALcmVhZFJlc29sdmVzcQB+AAzbhLXgdAAMaXNJbnN0YW5jZU9mc3EAfgAMxrF9yXQABFdvcmtzcQB+AAw0NlzFdAANV29ya1JlcXVlc3RlZHNxAH4ADMFfC2J0AAY8aW5pdD5zcQB+AAwyUW5jdAAMblplcm9zVG9GaW5kc3EAfgAMEwnVgXQADHByZWZpeFN0cmluZ3NxAH4ADFBT/dd0ABFUZXJtaW5hdGVZb3Vyc2VsZnNxAH4ADP/1BhZ0AAI9PXNxAH4ADGKXPi50AAVjbG9uZXNxAH4ADOF7q+V0AA9zdHJpbmdQcm9jZXNzZWRzcQB+AAyCiXHgdAAOY29weSRkZWZhdWx0JDNzcQB+AAwDVu+ldAAEY29weXNxAH4ADPt0XZx0AAh0b1N0cmluZ3NxAH4ADA3OYRx0AA5Ob1dvcmtUb0JlRG9uZXNxAH4ADJyZE9N0AAZsZW5ndGhzcQB+AAzY132xdAACIT1zcQB+AAwGZzB9dAAIZ2V0Q2xhc3NzcQB+AAyfEv/zdAAQbm9PZkhhc2hlc1RvRmluZHNxAH4ADBuPb/F0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADOHEDTd0AAZSZXN1bHRzcQB+AAyQ5ouOdAAUTWFzdGVyV29ya2VyUHJvdG9jb2xzcQB+AAxMo/29dAACbmVzcQB+AAxl1aFbdAAQV29ya2VyVGVybWluYXRlZHNxAH4ADG8wfbR0AAJlcXNxAH4ADE/qGgx0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxJ7fQqdAACIyNzcQB+AAw6azhDdAAIZmluYWxpemVzcQB+AAwn+Dj3dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAyBfpdtdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAKc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB7eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAJdAAdYml0bWluZXIuTWFzdGVyV29ya2VyUHJvdG9jb2x1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AkwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ae0wACWluaGVyaXRlZHEAfgB7TAAHcGFyZW50c3EAfgB7eHEAfgCac3EAfgCTAXVxAH4AdgAAAABwc3EAfgCTAXVxAH4AdgAAAABwc3EAfgCTAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AmXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AmXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AsnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4As3NxAH4ApnQAA0FueXNxAH4AqnNxAH4ArXVxAH4AsAAAAAJzcQB+ALJ0AAVzY2FsYXEAfgC5cHBzcQB+AHhxAH4AhXVxAH4AhgAAAABzcQB+AIgAdAANYml0bWluZXIuV29ya3VxAH4AiwAAAAB+cQB+AI10AAhDbGFzc0RlZnVxAH4AkQAAAABzcQB+AJMBcQB+AJtwc3EAfgCTAXNxAH4AnXNxAH4AkwF1cQB+AHYAAAAAcHNxAH4AkwF1cQB+AHYAAAAAcHNxAH4AkwF1cQB+AKQAAAAHc3EAfgCmdAAMU2VyaWFsaXphYmxlc3EAfgCqc3EAfgCtdXEAfgCwAAAAAnNxAH4AsnEAfgDAcQB+ALlzcQB+AKZxAH4A03NxAH4AqnNxAH4ArXVxAH4AsAAAAANzcQB+ALJxAH4AtXNxAH4AsnQAAmlvcQB+ALlzcQB+AKZ0AAdQcm9kdWN0cQB+ANRzcQB+AKZ0AAZFcXVhbHNxAH4A1HNxAH4ApnQAFE1hc3RlcldvcmtlclByb3RvY29sc3EAfgCqc3EAfgCtdXEAfgCwAAAAAnNxAH4AsnQACGJpdG1pbmVycQB+ALlzcQB+AKZxAH4AqXNxAH4AqnNxAH4ArXVxAH4AsAAAAANzcQB+ALJxAH4AtXNxAH4AsnEAfgC3cQB+ALlzcQB+AKZxAH4Au3EAfgDUcHBzcQB+AHhxAH4AhXVxAH4AhgAAAABzcQB+AIgAdAAXYml0bWluZXIuTm9Xb3JrVG9CZURvbmV1cQB+AIsAAAAAfnEAfgCNdAAGTW9kdWxldXEAfgCRAAAAAHNxAH4AkwFxAH4Am3BzcQB+AJMBc3EAfgCdc3EAfgCTAXVxAH4AdgAAAABwc3EAfgCTAXVxAH4AdgAAAABwc3EAfgCTAXVxAH4ApAAAAAdzcQB+AKZxAH4A03NxAH4AqnNxAH4ArXVxAH4AsAAAAAJzcQB+ALJxAH4AwHEAfgC5c3EAfgCmcQB+ANNzcQB+AKpzcQB+AK11cQB+ALAAAAADc3EAfgCycQB+ALVzcQB+ALJ0AAJpb3EAfgC5c3EAfgCmcQB+AOBxAH4BA3NxAH4ApnQABkVxdWFsc3EAfgEDc3EAfgCmdAAUTWFzdGVyV29ya2VyUHJvdG9jb2xzcQB+AKpzcQB+AK11cQB+ALAAAAACc3EAfgCydAAIYml0bWluZXJxAH4AuXNxAH4ApnEAfgCpc3EAfgCqc3EAfgCtdXEAfgCwAAAAA3NxAH4AsnEAfgC1c3EAfgCycQB+ALdxAH4AuXNxAH4ApnEAfgC7cQB+AQNwcHNxAH4AeHEAfgCFdXEAfgCGAAAAAHNxAH4AiAB0ABpiaXRtaW5lci5UZXJtaW5hdGVZb3Vyc2VsZnVxAH4AiwAAAABxAH4A9nVxAH4AkQAAAABzcQB+AJMBcQB+AJtwc3EAfgCTAXNxAH4AnXNxAH4AkwF1cQB+AHYAAAAAcHNxAH4AkwF1cQB+AHY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
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBpF2SQAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwbHrxw3QABHNlbGZzcQB+AAvWZKD+dAAHY29udGV4dHVxAH4ACQAAAClzcQB+AAs+uYaZdAAGbm90aWZ5c3EAfgAL57Rny3QADGNoZWNrVmFsaWRJcHNxAH4ACw8t7u90AAdSZWNlaXZlc3EAfgALDi78kHQABHdhaXRzcQB+AAsIalKCdAANJGFzSW5zdGFuY2VPZnNxAH4AC69JX550AAZlcXVhbHNzcQB+AAtJFWktdAAMYXNJbnN0YW5jZU9mc3EAfgALtprG2XQADHN5bmNocm9uaXplZHNxAH4AC9D1ouR0AA0kaXNJbnN0YW5jZU9mc3EAfgALTDG36HQAB3JlY2VpdmVzcQB+AAvFcVNqdAAKcHJlUmVzdGFydHNxAH4AC2/3+OF0AAhQcm9qZWN0MXNxAH4AC1QutxJ0AA1hcm91bmRSZWNlaXZlc3EAfgALx8FJ4HQACG5Xb3JrZXJzc3EAfgAL1qWybnQAC3Bvc3RSZXN0YXJ0c3EAfgAL1m2GEnQAEXN0YXJ0V29ya2VyU3lzdGVtc3EAfgAL5fGFzXQABG1haW5zcQB+AAuelZ0sdAAIcG9zdFN0b3BzcQB+AAv1gCBAdAAJbm90aWZ5QWxsc3EAfgAL8zFqVXQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALW8jopXQADGlzSW5zdGFuY2VPZnNxAH4AC/zzUTt0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgAL0i6ACHQADmFyb3VuZFBvc3RTdG9wc3EAfgAL7APK0nQACExpc3RlbmVyc3EAfgALRSmfLHQABjxpbml0PnNxAH4AC8sToLt0AAhwcmVTdGFydHNxAH4AC0rGb6x0AAl1bmhhbmRsZWRzcQB+AAvkVZXldAACPT1zcQB+AAvZm0ZodAAFY2xvbmVzcQB+AAviVEg4dAAXc3RhcnRNYXN0ZXJXb3JrZXJTeXN0ZW1zcQB+AAuQmIandAAGc2VuZGVyc3EAfgALilkp0HQACHRvU3RyaW5nc3EAfgALt97sdHQAAiE9c3EAfgALu1zEvXQACGdldENsYXNzc3EAfgALDnXcH3QAAm5lc3EAfgALbsuSgXQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC1TnEcN0AAJlcXNxAH4AC4fRmJh0AAIjI3NxAH4AC6PuTV50AAhmaW5hbGl6ZXNxAH4AC/WhtWh0AAhoYXNoQ29kZXNxAH4ACxMFjVN0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AG14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABFiaXRtaW5lci5Qcm9qZWN0MXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AhQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AbUwACWluaGVyaXRlZHEAfgBtTAAHcGFyZW50c3EAfgBteHEAfgCMc3EAfgCFAXVxAH4AaAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AbnEAfgB3dXEAfgB4AAAAAHNxAH4AegBxAH4AM3VxAH4AfQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCLdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ai3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ap3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AJR4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AIB0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJtbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AItzcQB+AJp0AAVBcnJheXEAfgCgdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJp0AAZTdHJpbmdzcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmdAAEamF2YXNxAH4ApnQABGxhbmdxAH4Aq3BzcQB+AIUBdXEAfgBoAAAAAHBzcQB+AIUBdXEAfgC/AAAAAnNxAH4AmnQABk9iamVjdHEAfgDDc3EAfgCadAADQW55cQB+AKBwcHNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegB0ABFiaXRtaW5lci5MaXN0ZW5lcnVxAH4AfQAAAAB+cQB+AH90AAhDbGFzc0RlZnVxAH4AgwAAAABzcQB+AIUBcQB+AI1wc3EAfgCFAXNxAH4Aj3NxAH4AhQF1cQB+AGgAAAAAcHNxAH4AhQF1cQB+AGgAAAAAcHNxAH4AhQF1cQB+AL8AAAADc3EAfgCadAAFQWN0b3JzcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmdAAEYWtrYXNxAH4ApnQABWFjdG9ycQB+AKtzcQB+AJpxAH4Az3NxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZxAH4Ax3NxAH4ApnEAfgDJcQB+AKtzcQB+AJpxAH4A0XNxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZxAH4AqXEAfgCrcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAhiaXRtaW5lcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSPaM1ON1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABSQzpcVXNlcnNcQWRpdHlhXERlc2t0b3BcU3VibWlzc2lvbiBET1NcUHJvamVjdDFcQml0TWluZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHkgpPZDvZg93OOAC5ytH8erDZDH
+external apis:
+0 items
+source infos:
+4 items
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitMaster.scala -> 
+AAAAAAAAAAA=
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\BitWorker.scala -> 
+AAAAAAAAAAA=
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\MasterWorkerProtocol.scala -> 
+AAAAAAAAAAA=
+C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\scala\bitminer\Project1.scala -> 
+AAAAAAAAAAA=
+compilations:
+20 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSKznb6N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSKzsbPJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSKzuVCp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSKzw7ep1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSKz1E411cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSKz9/Sd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSK0N9Wh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSK0PHzt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSK0UNfF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSK26tLx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSK34ECF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSK37uZF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSK4CSVx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSK4V/dB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSK4ak6Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSK4qpRJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSK5MLGV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSK5N3PF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSK5P2lx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSPaM1ON1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUkM6XFVzZXJzXEFkaXR5YVxEZXNrdG9wXFN1Ym1pc3Npb24gRE9TXFByb2plY3QxXEJpdE1pbmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv

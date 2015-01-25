@@ -1,0 +1,16 @@
+compile
+run 192.168.1.6
+run
+run 192.168.1.6
+run
+exit
+reload
+compile
+assembly
+package
+exit
+reload
+compile
+run
+run 6
+run 10.136.108.140

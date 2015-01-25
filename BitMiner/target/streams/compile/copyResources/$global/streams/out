@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\resources\master.conf,C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\master.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\resources\remoteWorker.conf,C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\remoteWorker.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\src\main\resources\worker.conf,C:\Users\Aditya\Desktop\Submission DOS\Project1\BitMiner\target\scala-2.11\classes\worker.conf)[0m
